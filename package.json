@@ -9,7 +9,8 @@
     "node": ">=18"
   },
   "dependencies": {
-    "directus": "^10.6.1",
+    "@directus/storage-driver-cloudinary": "^10.0.17",
+    "directus": "^10.9.3",
     "directus-extension-computed-interface": "^1.9.0",
     "directus-extension-upsert": "^1.0.5",
     "directus-extension-wpslug-interface": "^1.1.0",
